@@ -1,0 +1,20 @@
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\bin\Debug\CtrlElevator.exe.config
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\bin\Debug\CtrlElevator.exe
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\bin\Debug\CtrlElevator.pdb
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.csprojAssemblyReference.cache
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.Properties.Resources.resources
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.csproj.GenerateResource.cache
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.csproj.CoreCompileInputs.cache
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.exe
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.pdb
+C:\Users\Rebika Tamrakar\source\repos\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.ElevatorGui.resources
+F:\Assignments\CtrlElevator\CtrlElevator\bin\Debug\CtrlElevator.exe.config
+F:\Assignments\CtrlElevator\CtrlElevator\bin\Debug\CtrlElevator.exe
+F:\Assignments\CtrlElevator\CtrlElevator\bin\Debug\CtrlElevator.pdb
+F:\Assignments\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.csprojAssemblyReference.cache
+F:\Assignments\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.ElevatorGui.resources
+F:\Assignments\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.Properties.Resources.resources
+F:\Assignments\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.csproj.GenerateResource.cache
+F:\Assignments\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.csproj.CoreCompileInputs.cache
+F:\Assignments\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.exe
+F:\Assignments\CtrlElevator\CtrlElevator\obj\Debug\CtrlElevator.pdb
